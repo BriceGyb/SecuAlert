@@ -11,6 +11,10 @@ Visualisation des données : Affichage de graphiques statistiques interactifs po
 Notifications en temps réel : Alertes instantanées pour informer les utilisateurs des incidents récents dans leur zone.
 Filtrage et recherche : Fonctionnalités avancées pour filtrer les données par type de crime, localisation, date, etc.
 Interface utilisateur intuitive : Conçue pour être facilement utilisable par le grand public.
+
+
+
+
 Prérequis
 PHP 7.4+ (ou supérieur)
 Composer
@@ -23,7 +27,7 @@ Cloner le dépôt
 
 bash
 Copier le code
-git clone https://github.com/votre-utilisateur/votre-repo.git
+git clone https://github.com/BriceGyb/SecuAlert
 cd votre-repo
 Installer les dépendances PHP
 
